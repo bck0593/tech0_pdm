@@ -1,0 +1,4 @@
+.env
+mock.db
+__pycache__/
+*.py[cod]
